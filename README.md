@@ -1,4 +1,5 @@
-# CSE-120-Project
+# Warehouse-Product-Inventory-and-Geo-Tagging-Application
+# FOR UC MERCED: CSE-120-Project
 Warehouse Product Geo-tagging
 Background
 The Morning Star Company accounts for over 25% of the California processing tomato production, supplying 40% of the U.S. ingredient tomato paste and diced tomato markets, with industrial sales of approximately $350 million. Morning Star is a vertically integrated company with business units supplying and servicing all aspect of the tomato industry from seeding and growing in the green house to processing and canning at our factories.
