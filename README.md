@@ -13,3 +13,7 @@ Using a camera, read the barcode or label on the side of the container and creat
 Links:
 
 Github: https://github.com/adaPlu/CSE-120-Project
+
+## License
+
+**License:** Original contributions owned or licenseable by Ada Pluguez are available under the [MIT License](LICENSE). University/company-provided materials, reports, imagery, trademarks, data, and other third-party content are **not** included without permission. Read [LICENSE-SCOPE.md](LICENSE-SCOPE.md) before redistribution.
